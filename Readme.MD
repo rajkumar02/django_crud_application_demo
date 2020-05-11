@@ -17,8 +17,8 @@ This project has simle features like basic modeling CRUD operation.
 
 ## Access for this project:
 If you go __/admin__ route, it come up with defult django login screen. Put this username and password.
-- Username: rajkumar
-- Pass: 12345
+- Username: __rajkumar__
+- Pass: __12345__
 
 > If you like this project please give it to __star__. :star:
 
