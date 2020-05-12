@@ -20,7 +20,7 @@ If you go __/admin__ route, it comes up with a default Django login screen. Put 
 - Username: __rajkumar__
 - Pass: __12345__
 
-You can also see by adding "/" to "/1" id number! Which is showing the current flight number, Just add 1, 2, or 3 and see whats happened. 
+You can also see by adding "/" to "/1" id number! Which is showing the current flight number, Just add 1, 2, or 3 and see whats happened. Also it has include dynamic link to go flight details page.
 
 > If you like this project please give it to __star__. :star:
 
